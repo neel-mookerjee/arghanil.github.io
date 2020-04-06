@@ -3,9 +3,9 @@ My single page profile that renders on both desktop and mobile. Mobile rendering
 
 ## Installation
 
-* The project is named `arghanil.github.io`. So the page will be rendered under (arghanil.github.io)[https://arghanil.github.io].
+* The project is named `arghanil.github.io`. So the page will be rendered under [arghanil.github.io](https://arghanil.github.io)
 * Github Pages source is set as master.
-* Change details from one place: ``_data/data.yml``
+* Change details from one place: `_data/data.yml`
 
 ## Skins
 
