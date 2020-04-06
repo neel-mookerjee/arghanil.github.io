@@ -49,7 +49,7 @@ experiences:
           - Platform release framework, wikis, announcements, meeting modern security and engineering standards
     - role: Senior Software Engineer
       time: Oct 2016 – Mar 2018
-      company: Greater Seattle Area
+      company: Nordstrom, Greater Seattle Area
       details: |
           - Built and managed telemetry at the enterprise level
           - Building Elasticsearch cluster for logs from enterprise application (filebeats, logstash, kibana)
