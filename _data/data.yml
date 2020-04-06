@@ -1,0 +1,62 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Arghanil Mookerjee
+    tagline: Cloud, Bigdata and DevOps Engineer • Bigdata • AWS • Kubernetes • Terraform
+    avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email:
+    phone:
+    website: arghanil.github.io #do not add http://
+    linkedin: arghanil
+    github: arghanil
+    gitlab:
+    bitbucket:
+    twitter:
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+career-profile:
+    title: Career Profile
+    summary: |
+      Working as Cloud Bigdata and DevOps Engineer at Nordstrom. Built the Bigdata Platform in Nordstrom to serve Hadoop and Spark for analytics, data science and ML. Developed and maintained the telemetry logging and metrics solution for the enterprise applications.
+
+education:
+    - degree: BE (Comp Sc & Eng.)
+      university:
+      time:
+      details: |
+
+experiences:
+    - role: Staff Cloud, Bigdata and DevOps Engineer
+      time: Apr 2018 – Present
+      company: Nordstrom, Greater Seattle Area
+      details: |
+          - Built the Bigdata Platform in Nordstrom to serve Hadoop and Spark for analytics, data science and ML
+          - Implemented perimeter security for bigdata platform using Highly Available Apache Knox and Ranger supported by distributed Solr Cloud and Zookeeper
+          - Rolled out Apache Atlas for (Meta) Data Governance and Lineage and support data steward
+          - Implemented data logistics for enterprise data using Apache NiFi
+          - Introduced infrastructure secret management using HashiCorp Vault
+          - Modern DevOps using terraform, ansible, telemetry (Splunk, Datadog), monitoring, CICD and reliability testing, outstanding chatops to promote self-service and cost effectiveness, heavy containerization using docker and deployment on Kubernetes
+          - Platform release framework, wikis, announcements, meeting modern security and engineering standards
+    - role: Senior Software Engineer
+      time: Oct 2016 – Mar 2018
+      company: Greater Seattle Area
+      details: |
+          - Built and managed telemetry at the enterprise level
+          - Building Elasticsearch cluster for logs from enterprise application (filebeats, logstash, kibana)
+          - Managing telemetry metrics time series with InfluxDB on AWS (telegraf, grafana, kapacitor)
+          - Streaming data using Apache Kafka and Kinesis; stream processing with Apache Flink
+          - Implemented distributed tracing using zipkin with cassandra
+          - Implementing full scale DevOps using Chef, ansible, terraform and AWS CloudFormation
+          - Performing maintenance, tuning, curation, experiments on volumes and r/w
+          - Implemented Hot-Warm Architecture in Elasticsearch to achieve high ingestion
+          - Working with partners (enterprise app teams) on the log infrastructure requirement, planning and strategy
